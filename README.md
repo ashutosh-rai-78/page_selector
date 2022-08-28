@@ -1,16 +1,15 @@
-# page_selector
+# Page Selector
+### Page Selector
+### **Live Demo** : [https://ashutosh-rai-78.github.io/page_selector](https://ashutosh-rai-78.github.io/page_selector)
 
-A new Flutter project.
+## Screensshots
+---
+<p float="left">
+<img src="images/Media.gif" width="220">
+</p>
 
-## Getting Started
+<!-- ![](images/Screenshot_1.png)
+![](images/Screenshot_3.png)
+![](images/Screenshot_4.png) -->
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
